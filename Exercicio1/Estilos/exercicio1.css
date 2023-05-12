@@ -1,0 +1,45 @@
+body{
+    background-color: 	#40E0D0;
+    text-align: justify;
+}
+header{
+    text-align: center;
+    background-color: #708090;
+    word-spacing: 30px;
+    height: 20px;
+    scale: 1.76; 
+}
+nav a{
+    background-color:blue ;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+#paragrafos{
+    text-indent: 30px;
+    text-align: justify;
+}
+footer{
+    width: 500px;
+    background-color: orange;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 80px;
+}
+#titulos {
+    text-align: center;
+}
+.teste{
+    text-align: center;
+}
+#paragrafo1{
+   text-indent: 60px;
+}
