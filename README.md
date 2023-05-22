@@ -3,6 +3,6 @@ REPOSITORIO DESENVOLVIMENTO WEB I
 Ecercícios:
   <ol>
       <li>
-        <a href="https://eduardo-j-s.github.io/DSWI/Exercicio1/pages/home.html">Exercício 1</a>
+        <a href="https://lucianobruno1/DSWI/Exercicio1/pages/home.html">Exercício 1</a>
       </li>
       <li>
