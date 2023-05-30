@@ -1,4 +1,4 @@
-REPOSITORIO DESENVOLVIMENTO WEB I
+REPOSITÓRIO DESENVOLVIMENTO WEB I
 [GitHub Page](https://lucianobruno1.github.io/DSWI/)
 
 Exercícios:
